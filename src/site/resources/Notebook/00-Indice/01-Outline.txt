@@ -26,4 +26,4 @@ Descripción: Contiene los formatos de reporte WEEK del equipo de los Ingenieros.
 
 08-Notas de trabajo y documentos
 Descripción: Contiene la especificación de requerimientos del sistema SRS, la estrategia de desarrollo, la especificación del diseño del sistema SDS con la trazabilidad de la especificación de requerimientos.
-Todos los documentos de diseño y otros documentos importantes como CCR, CSR, SUMTASK, STRAT, etc.
+Todos los documentos de diseño y otros documentos importantes como SUMTASK, STRAT, Informe Final del Proyecto etc.
