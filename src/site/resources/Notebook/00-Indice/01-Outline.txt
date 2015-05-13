@@ -1,15 +1,3 @@
-Las carpetas del notebook estan distribuidas de la siguiente manera:
-00-Indice
-01-Resumen
-02-Reportes de ciclos del proyecto
-03-Task and Schedule planeados y reales
-04-Documentos del proceso
-05-Datos planeados y actuales del sistema
-06-Planes y datos de prueba
-07-Reportes de inspección y log de defectos
-08-Notas de trabajo y documentos
-
-
 El presente notebook contiene la siguiente información organizada por directorios.
 
 01-Resumen
@@ -34,11 +22,8 @@ Descripción: Contiene los formatos SUMP y SUMQ por cada componente del producto
 Descripción: Contiene los planes de pruebas de sistema, construcción, integración. Los datos y log de pruebas. El registro de la revisión de defectos de pruebas. Formato LOGTEST
 
 07-Reportes de inspección y log de defectos
-Descripción: Contiene los reportes de inspección INS y los log de defectos LOGD, SUMDI, SUMDR
-
-08 Reportes
 Descripción: Contiene los formatos de reporte WEEK del equipo de los Ingenieros.
 
-09-Notas de trabajo y documentos
+08-Notas de trabajo y documentos
 Descripción: Contiene la especificación de requerimientos del sistema SRS, la estrategia de desarrollo, la especificación del diseño del sistema SDS con la trazabilidad de la especificación de requerimientos.
 Todos los documentos de diseño y otros documentos importantes como CCR, CSR, SUMTASK, STRAT, etc.
