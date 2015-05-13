@@ -12,33 +12,33 @@ Las carpetas del notebook estan distribuidas de la siguiente manera:
 
 El presente notebook contiene la siguiente información organizada por directorios.
 
-02 Resumen
+01-Resumen
 Descripción: Contiene la información general de proyecto nombre, miembros de equipo, definición de roles, formatos SUMP y SUMQ con los datos planeados y reales del proyecto y
 TASK y SCHEDULE por equipo, SUMS, SUMT.
 
-03 Reportes de ciclos del proyecto
+02-Reportes de ciclos del proyecto
 Descripción: contiene los reportes finales por cada ciclo de desarrollo. Este directorio es utilizado para alojar documentos que son utilizados para la generación del reporte final. Formatos PEER
 
-04 Task and Schedule planeados y reales
+03-Task and Schedule planeados y reales
 Descripción: Contiene la información de los recursos planeados y reales y los datos de los horarios programados.
 Un resumen del rendimiento de las tareas de acuerdo con la programación de horarios vs lo planeado.
 Los formatos timeRecordingLog (LOGT), defectRecordingLog (LOGD), TASK, SCHEDULE por cada ingeniero miembro del equipo. 
 
-05 Documentos del proceso
+04-Documentos del proceso
 Descripción: Contiene la información relacionada con el procedimiento de control de cambios, el proceso de gestión de la configuración, proceso de rastreo de riesgos e incidentes. FORMATOS PIP, ITL
 
-06 Datos planeados y actuales del sistema
+05-Datos planeados y actuales del sistema
 Descripción: Contiene los formatos SUMP y SUMQ por cada componente del producto
 
-07 Planes y datos de prueba
+06-Planes y datos de prueba
 Descripción: Contiene los planes de pruebas de sistema, construcción, integración. Los datos y log de pruebas. El registro de la revisión de defectos de pruebas. Formato LOGTEST
 
-08 Reportes de inspección y log de defectos
+07-Reportes de inspección y log de defectos
 Descripción: Contiene los reportes de inspección INS y los log de defectos LOGD, SUMDI, SUMDR
 
-09 Reportes
+08 Reportes
 Descripción: Contiene los formatos de reporte WEEK del equipo de los Ingenieros.
 
-10 Notas de trabajo y documentos
+09-Notas de trabajo y documentos
 Descripción: Contiene la especificación de requerimientos del sistema SRS, la estrategia de desarrollo, la especificación del diseño del sistema SDS con la trazabilidad de la especificación de requerimientos.
 Todos los documentos de diseño y otros documentos importantes como CCR, CSR, SUMTASK, STRAT, etc.
